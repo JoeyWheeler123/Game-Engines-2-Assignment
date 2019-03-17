@@ -1,0 +1,1369 @@
+fileFormatVersion: 2
+guid: 9a54a80ace8b6f149b6980eceeaedfc0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: g cajaM:pCube29
+    100002: g cositas:default1
+    100004: g cositas:default1 1
+    100006: g cositas:pTorus9 cositas:polySurface2 polySurface2045
+    100008: g cositas:pTorus9 cositas:polySurface2 polySurface2046 cositas:polySurface1
+    100010: g default
+    100012: g default 1
+    100014: g default 10
+    100016: g default 11
+    100018: g default 12
+    100020: g default 13
+    100022: g default 14
+    100024: g default 15
+    100026: g default 16
+    100028: g default 2
+    100030: g default 3
+    100032: g default 4
+    100034: g default 5
+    100036: g default 6
+    100038: g default 7
+    100040: g default 8
+    100042: g default 9
+    100044: g pCube1
+    100046: g pCube105 polySurface1683
+    100048: g pCube105 polySurface1695
+    100050: g pCube105 polySurface1700
+    100052: g pCube105 polySurface1733
+    100054: g pCube105 polySurface1736
+    100056: g pCube105 polySurface1746
+    100058: g pCube105 polySurface1747
+    100060: g pCube105 polySurface1748
+    100062: g pCube105 polySurface1750
+    100064: g pCube105 polySurface1766
+    100066: g pCube105 polySurface1767
+    100068: g pCube105 polySurface1768
+    100070: g pCube105 polySurface1772
+    100072: g pCube105 polySurface1774
+    100074: g pCube105 polySurface1775
+    100076: g pCube105 polySurface1776
+    100078: g pCube105 polySurface1777
+    100080: g pCube105 polySurface1801
+    100082: g pCube105 polySurface1802
+    100084: g pCube105 polySurface1803
+    100086: g pCube105 polySurface1804
+    100088: g pCube105 polySurface1805
+    100090: g pCube105 polySurface1806
+    100092: g pCube105 polySurface1807
+    100094: g pCube105 polySurface1808
+    100096: g pCube105 polySurface1809
+    100098: g pCube105 polySurface1825
+    100100: g pCube105 polySurface1829
+    100102: g pCube105 polySurface1848
+    100104: g pCube105 polySurface1865
+    100106: g pCube105 polySurface1869
+    100108: g pCube105 polySurface1880
+    100110: g pCube105 polySurface1881
+    100112: g pCube105 polySurface1893
+    100114: g pCube105 polySurface1905
+    100116: g pCube105 polySurface1908
+    100118: g pCube105 polySurface1917
+    100120: g pCube105 polySurface1919
+    100122: g pCube105 polySurface1934
+    100124: g pCube105 polySurface2014
+    100126: g pCube105 polySurface2026
+    100128: g pCube105 polySurface2032
+    100130: g pCube105 polySurface2033
+    100132: g pCube105 polySurface2034
+    100134: g pCube105 polySurface2035
+    100136: g pCube105 polySurface2062
+    100138: g pCube105 polySurface2063
+    100140: g pCube105 polySurface2064
+    100142: g pCube105 polySurface2065
+    100144: g pCube105 polySurface2073
+    100146: g pCube105 polySurface2074
+    100148: g pCube105 polySurface2075
+    100150: g pCube105 polySurface2076
+    100152: g pCube105 polySurface2077
+    100154: g pCube105 polySurface2078
+    100156: g pCube105 polySurface2079
+    100158: g pCube105 polySurface2080
+    100160: g pCube105 polySurface2081
+    100162: g pCube105 polySurface2082
+    100164: g pCube105 polySurface2083
+    100166: g pCube105 polySurface2084
+    100168: g pCube105 polySurface2085
+    100170: g pCube105 polySurface2086
+    100172: g pCube105 polySurface2087
+    100174: g pCube105 polySurface2088
+    100176: g pCube105 polySurface2089
+    100178: g pCube105 polySurface2090
+    100180: g pCube105 polySurface2091
+    100182: g pCube105 polySurface2092
+    100184: g pCube105 polySurface2093
+    100186: g pCube105 polySurface2094
+    100188: g pCube105 polySurface2095
+    100190: g pCube105 polySurface2096
+    100192: g pCube105 polySurface2097
+    100194: g pCube105 polySurface2098
+    100196: g pCube105 polySurface2099
+    100198: g pCube105 polySurface2119
+    100200: g pCube105 polySurface2120
+    100202: g pCube105 polySurface2121
+    100204: g pCube105 polySurface2122
+    100206: g pCube105 polySurface2123
+    100208: g pCube105 polySurface2124
+    100210: g pCube105 polySurface2125
+    100212: g pCube105 polySurface2126
+    100214: g pCube105 polySurface2147
+    100216: g pCube105 polySurface2148
+    100218: g pCube105 polySurface2149
+    100220: g pCube105 polySurface2161
+    100222: g pCube105 polySurface2163
+    100224: g pCube105 polySurface2164
+    100226: g pCube105 polySurface2168
+    100228: g pCube105 polySurface2169
+    100230: g pCube105 polySurface2170
+    100232: g pCube105 polySurface2173 polySurface2174
+    100234: g pCube108
+    100236: g pCube136
+    100238: g pCube137
+    100240: g pCube29
+    100242: g pCylinder11
+    100244: g pCylinder12
+    100246: g pCylinder13
+    100248: g pCylinder16
+    100250: g pCylinder17
+    100252: g pCylinder18
+    100254: g pCylinder19
+    100256: g pCylinder22
+    100258: g pCylinder23
+    100260: g pCylinder32
+    100262: g pCylinder33
+    100264: g pCylinder34
+    100266: g pCylinder35
+    100268: g pCylinder36
+    100270: g pCylinder48
+    100272: g pCylinder49
+    100274: g pCylinder50
+    100276: g pCylinder51
+    100278: g pCylinder52
+    100280: g pCylinder53
+    100282: g pCylinder54
+    100284: g pCylinder55
+    100286: g polySurface1677 pCube105
+    100288: g polySurface1739
+    100290: g polySurface1853
+    100292: g polySurface1874
+    100294: g polySurface1918
+    100296: g polySurface1923
+    100298: g polySurface1949
+    100300: g polySurface2010
+    100302: g polySurface2020
+    100304: g polySurface2066
+    100306: g polySurface2067
+    100308: g polySurface2068
+    100310: g polySurface2069
+    100312: g polySurface2070
+    100314: g polySurface2071
+    100316: g polySurface2072
+    100318: g polySurface2111
+    100320: g polySurface2112
+    100322: g polySurface2113
+    100324: g polySurface2114
+    100326: g polySurface2115
+    100328: g polySurface2116
+    100330: g polySurface2117
+    100332: g polySurface2118
+    100334: g polySurface2130
+    100336: g polySurface2151
+    100338: g polySurface2165
+    100340: g polySurface2167
+    100342: g polySurface2171
+    100344: g polySurface2172
+    100346: g pSphere4
+    100348: g pTorus10
+    100350: g pTorus11
+    100352: g pTorus6
+    100354: g pTorus7
+    100356: g pTorus8
+    100358: g pTorus9
+    100360: g saco:pCube1
+    100362: meshId100_name
+    100364: meshId101_name
+    100366: meshId103_name
+    100368: meshId104_name
+    100370: meshId105_name
+    100372: meshId109_name
+    100374: meshId111_name
+    100376: meshId115_name
+    100378: meshId116_name
+    100380: meshId118_name
+    100382: meshId120_name
+    100384: meshId122_name
+    100386: meshId123_name
+    100388: meshId143_name
+    100390: meshId150_name
+    100392: meshId151_name
+    100394: meshId154_name
+    100396: meshId155_name
+    100398: meshId156_name
+    100400: meshId160_name
+    100402: meshId162_name
+    100404: meshId17_name
+    100406: meshId191_name
+    100408: meshId192_name
+    100410: meshId19_name
+    100412: meshId216_name
+    100414: meshId218_name
+    100416: meshId21_name
+    100418: meshId220_name
+    100420: meshId23_name
+    100422: meshId25_name
+    100424: meshId27_name
+    100426: meshId29_name
+    100428: meshId31_name
+    100430: meshId39_name
+    100432: meshId3_name
+    100434: meshId41_name
+    100436: meshId43_name
+    100438: meshId45_name
+    100440: meshId47_name
+    100442: meshId49_name
+    100444: meshId51_name
+    100446: meshId53_name
+    100448: meshId55_name
+    100450: meshId56_name
+    100452: meshId60_name
+    100454: meshId61_name
+    100456: meshId63_name
+    100458: meshId76_name
+    100460: meshId77_name
+    100462: meshId79_name
+    100464: meshId80_name
+    100466: meshId82_name
+    100468: meshId84_name
+    100470: meshId86_name
+    100472: meshId87_name
+    100474: meshId88_name
+    100476: meshId90_name
+    100478: meshId92_name
+    100480: meshId94_name
+    100482: meshId99_name
+    100484: //RootNode
+    400000: g cajaM:pCube29
+    400002: g cositas:default1
+    400004: g cositas:default1 1
+    400006: g cositas:pTorus9 cositas:polySurface2 polySurface2045
+    400008: g cositas:pTorus9 cositas:polySurface2 polySurface2046 cositas:polySurface1
+    400010: g default
+    400012: g default 1
+    400014: g default 10
+    400016: g default 11
+    400018: g default 12
+    400020: g default 13
+    400022: g default 14
+    400024: g default 15
+    400026: g default 16
+    400028: g default 2
+    400030: g default 3
+    400032: g default 4
+    400034: g default 5
+    400036: g default 6
+    400038: g default 7
+    400040: g default 8
+    400042: g default 9
+    400044: g pCube1
+    400046: g pCube105 polySurface1683
+    400048: g pCube105 polySurface1695
+    400050: g pCube105 polySurface1700
+    400052: g pCube105 polySurface1733
+    400054: g pCube105 polySurface1736
+    400056: g pCube105 polySurface1746
+    400058: g pCube105 polySurface1747
+    400060: g pCube105 polySurface1748
+    400062: g pCube105 polySurface1750
+    400064: g pCube105 polySurface1766
+    400066: g pCube105 polySurface1767
+    400068: g pCube105 polySurface1768
+    400070: g pCube105 polySurface1772
+    400072: g pCube105 polySurface1774
+    400074: g pCube105 polySurface1775
+    400076: g pCube105 polySurface1776
+    400078: g pCube105 polySurface1777
+    400080: g pCube105 polySurface1801
+    400082: g pCube105 polySurface1802
+    400084: g pCube105 polySurface1803
+    400086: g pCube105 polySurface1804
+    400088: g pCube105 polySurface1805
+    400090: g pCube105 polySurface1806
+    400092: g pCube105 polySurface1807
+    400094: g pCube105 polySurface1808
+    400096: g pCube105 polySurface1809
+    400098: g pCube105 polySurface1825
+    400100: g pCube105 polySurface1829
+    400102: g pCube105 polySurface1848
+    400104: g pCube105 polySurface1865
+    400106: g pCube105 polySurface1869
+    400108: g pCube105 polySurface1880
+    400110: g pCube105 polySurface1881
+    400112: g pCube105 polySurface1893
+    400114: g pCube105 polySurface1905
+    400116: g pCube105 polySurface1908
+    400118: g pCube105 polySurface1917
+    400120: g pCube105 polySurface1919
+    400122: g pCube105 polySurface1934
+    400124: g pCube105 polySurface2014
+    400126: g pCube105 polySurface2026
+    400128: g pCube105 polySurface2032
+    400130: g pCube105 polySurface2033
+    400132: g pCube105 polySurface2034
+    400134: g pCube105 polySurface2035
+    400136: g pCube105 polySurface2062
+    400138: g pCube105 polySurface2063
+    400140: g pCube105 polySurface2064
+    400142: g pCube105 polySurface2065
+    400144: g pCube105 polySurface2073
+    400146: g pCube105 polySurface2074
+    400148: g pCube105 polySurface2075
+    400150: g pCube105 polySurface2076
+    400152: g pCube105 polySurface2077
+    400154: g pCube105 polySurface2078
+    400156: g pCube105 polySurface2079
+    400158: g pCube105 polySurface2080
+    400160: g pCube105 polySurface2081
+    400162: g pCube105 polySurface2082
+    400164: g pCube105 polySurface2083
+    400166: g pCube105 polySurface2084
+    400168: g pCube105 polySurface2085
+    400170: g pCube105 polySurface2086
+    400172: g pCube105 polySurface2087
+    400174: g pCube105 polySurface2088
+    400176: g pCube105 polySurface2089
+    400178: g pCube105 polySurface2090
+    400180: g pCube105 polySurface2091
+    400182: g pCube105 polySurface2092
+    400184: g pCube105 polySurface2093
+    400186: g pCube105 polySurface2094
+    400188: g pCube105 polySurface2095
+    400190: g pCube105 polySurface2096
+    400192: g pCube105 polySurface2097
+    400194: g pCube105 polySurface2098
+    400196: g pCube105 polySurface2099
+    400198: g pCube105 polySurface2119
+    400200: g pCube105 polySurface2120
+    400202: g pCube105 polySurface2121
+    400204: g pCube105 polySurface2122
+    400206: g pCube105 polySurface2123
+    400208: g pCube105 polySurface2124
+    400210: g pCube105 polySurface2125
+    400212: g pCube105 polySurface2126
+    400214: g pCube105 polySurface2147
+    400216: g pCube105 polySurface2148
+    400218: g pCube105 polySurface2149
+    400220: g pCube105 polySurface2161
+    400222: g pCube105 polySurface2163
+    400224: g pCube105 polySurface2164
+    400226: g pCube105 polySurface2168
+    400228: g pCube105 polySurface2169
+    400230: g pCube105 polySurface2170
+    400232: g pCube105 polySurface2173 polySurface2174
+    400234: g pCube108
+    400236: g pCube136
+    400238: g pCube137
+    400240: g pCube29
+    400242: g pCylinder11
+    400244: g pCylinder12
+    400246: g pCylinder13
+    400248: g pCylinder16
+    400250: g pCylinder17
+    400252: g pCylinder18
+    400254: g pCylinder19
+    400256: g pCylinder22
+    400258: g pCylinder23
+    400260: g pCylinder32
+    400262: g pCylinder33
+    400264: g pCylinder34
+    400266: g pCylinder35
+    400268: g pCylinder36
+    400270: g pCylinder48
+    400272: g pCylinder49
+    400274: g pCylinder50
+    400276: g pCylinder51
+    400278: g pCylinder52
+    400280: g pCylinder53
+    400282: g pCylinder54
+    400284: g pCylinder55
+    400286: g polySurface1677 pCube105
+    400288: g polySurface1739
+    400290: g polySurface1853
+    400292: g polySurface1874
+    400294: g polySurface1918
+    400296: g polySurface1923
+    400298: g polySurface1949
+    400300: g polySurface2010
+    400302: g polySurface2020
+    400304: g polySurface2066
+    400306: g polySurface2067
+    400308: g polySurface2068
+    400310: g polySurface2069
+    400312: g polySurface2070
+    400314: g polySurface2071
+    400316: g polySurface2072
+    400318: g polySurface2111
+    400320: g polySurface2112
+    400322: g polySurface2113
+    400324: g polySurface2114
+    400326: g polySurface2115
+    400328: g polySurface2116
+    400330: g polySurface2117
+    400332: g polySurface2118
+    400334: g polySurface2130
+    400336: g polySurface2151
+    400338: g polySurface2165
+    400340: g polySurface2167
+    400342: g polySurface2171
+    400344: g polySurface2172
+    400346: g pSphere4
+    400348: g pTorus10
+    400350: g pTorus11
+    400352: g pTorus6
+    400354: g pTorus7
+    400356: g pTorus8
+    400358: g pTorus9
+    400360: g saco:pCube1
+    400362: meshId100_name
+    400364: meshId101_name
+    400366: meshId103_name
+    400368: meshId104_name
+    400370: meshId105_name
+    400372: meshId109_name
+    400374: meshId111_name
+    400376: meshId115_name
+    400378: meshId116_name
+    400380: meshId118_name
+    400382: meshId120_name
+    400384: meshId122_name
+    400386: meshId123_name
+    400388: meshId143_name
+    400390: meshId150_name
+    400392: meshId151_name
+    400394: meshId154_name
+    400396: meshId155_name
+    400398: meshId156_name
+    400400: meshId160_name
+    400402: meshId162_name
+    400404: meshId17_name
+    400406: meshId191_name
+    400408: meshId192_name
+    400410: meshId19_name
+    400412: meshId216_name
+    400414: meshId218_name
+    400416: meshId21_name
+    400418: meshId220_name
+    400420: meshId23_name
+    400422: meshId25_name
+    400424: meshId27_name
+    400426: meshId29_name
+    400428: meshId31_name
+    400430: meshId39_name
+    400432: meshId3_name
+    400434: meshId41_name
+    400436: meshId43_name
+    400438: meshId45_name
+    400440: meshId47_name
+    400442: meshId49_name
+    400444: meshId51_name
+    400446: meshId53_name
+    400448: meshId55_name
+    400450: meshId56_name
+    400452: meshId60_name
+    400454: meshId61_name
+    400456: meshId63_name
+    400458: meshId76_name
+    400460: meshId77_name
+    400462: meshId79_name
+    400464: meshId80_name
+    400466: meshId82_name
+    400468: meshId84_name
+    400470: meshId86_name
+    400472: meshId87_name
+    400474: meshId88_name
+    400476: meshId90_name
+    400478: meshId92_name
+    400480: meshId94_name
+    400482: meshId99_name
+    400484: //RootNode
+    2100000: lambert28SG
+    2100002: lambert34SG
+    2100004: lambert33SG
+    2100006: lambert23SG
+    2100008: lambert32SG
+    2100010: barcoSG
+    2100012: lambert27SG
+    2100014: lambert25SG
+    2100016: lambert20SG
+    2100018: lambert24SG
+    2100020: lambert36SG
+    2100022: mastil_3SG
+    2100024: mastil_2SG
+    2100026: lambert31SG
+    2100028: mastil_4SG
+    2100030: lambert29SG
+    2100032: mastil_1SG
+    2100034: lambert37SG
+    2100036: lambert35SG
+    2100038: lambert22SG
+    2100040: lambert30SG
+    2300000: g cajaM:pCube29
+    2300002: g cositas:pTorus9 cositas:polySurface2 polySurface2045
+    2300004: g cositas:pTorus9 cositas:polySurface2 polySurface2046 cositas:polySurface1
+    2300006: g pCube1
+    2300008: g pCube105 polySurface1683
+    2300010: g pCube105 polySurface1695
+    2300012: g pCube105 polySurface1700
+    2300014: g pCube105 polySurface1733
+    2300016: g pCube105 polySurface1736
+    2300018: g pCube105 polySurface1746
+    2300020: g pCube105 polySurface1747
+    2300022: g pCube105 polySurface1748
+    2300024: g pCube105 polySurface1750
+    2300026: g pCube105 polySurface1766
+    2300028: g pCube105 polySurface1767
+    2300030: g pCube105 polySurface1768
+    2300032: g pCube105 polySurface1772
+    2300034: g pCube105 polySurface1774
+    2300036: g pCube105 polySurface1775
+    2300038: g pCube105 polySurface1776
+    2300040: g pCube105 polySurface1777
+    2300042: g pCube105 polySurface1801
+    2300044: g pCube105 polySurface1802
+    2300046: g pCube105 polySurface1803
+    2300048: g pCube105 polySurface1804
+    2300050: g pCube105 polySurface1805
+    2300052: g pCube105 polySurface1806
+    2300054: g pCube105 polySurface1807
+    2300056: g pCube105 polySurface1808
+    2300058: g pCube105 polySurface1809
+    2300060: g pCube105 polySurface1825
+    2300062: g pCube105 polySurface1829
+    2300064: g pCube105 polySurface1848
+    2300066: g pCube105 polySurface1865
+    2300068: g pCube105 polySurface1869
+    2300070: g pCube105 polySurface1880
+    2300072: g pCube105 polySurface1881
+    2300074: g pCube105 polySurface1893
+    2300076: g pCube105 polySurface1905
+    2300078: g pCube105 polySurface1908
+    2300080: g pCube105 polySurface1917
+    2300082: g pCube105 polySurface1919
+    2300084: g pCube105 polySurface1934
+    2300086: g pCube105 polySurface2014
+    2300088: g pCube105 polySurface2026
+    2300090: g pCube105 polySurface2032
+    2300092: g pCube105 polySurface2033
+    2300094: g pCube105 polySurface2034
+    2300096: g pCube105 polySurface2035
+    2300098: g pCube105 polySurface2062
+    2300100: g pCube105 polySurface2063
+    2300102: g pCube105 polySurface2064
+    2300104: g pCube105 polySurface2065
+    2300106: g pCube105 polySurface2073
+    2300108: g pCube105 polySurface2074
+    2300110: g pCube105 polySurface2075
+    2300112: g pCube105 polySurface2076
+    2300114: g pCube105 polySurface2077
+    2300116: g pCube105 polySurface2078
+    2300118: g pCube105 polySurface2079
+    2300120: g pCube105 polySurface2080
+    2300122: g pCube105 polySurface2081
+    2300124: g pCube105 polySurface2082
+    2300126: g pCube105 polySurface2083
+    2300128: g pCube105 polySurface2084
+    2300130: g pCube105 polySurface2085
+    2300132: g pCube105 polySurface2086
+    2300134: g pCube105 polySurface2087
+    2300136: g pCube105 polySurface2088
+    2300138: g pCube105 polySurface2089
+    2300140: g pCube105 polySurface2090
+    2300142: g pCube105 polySurface2091
+    2300144: g pCube105 polySurface2092
+    2300146: g pCube105 polySurface2093
+    2300148: g pCube105 polySurface2094
+    2300150: g pCube105 polySurface2095
+    2300152: g pCube105 polySurface2096
+    2300154: g pCube105 polySurface2097
+    2300156: g pCube105 polySurface2098
+    2300158: g pCube105 polySurface2099
+    2300160: g pCube105 polySurface2119
+    2300162: g pCube105 polySurface2120
+    2300164: g pCube105 polySurface2121
+    2300166: g pCube105 polySurface2122
+    2300168: g pCube105 polySurface2123
+    2300170: g pCube105 polySurface2124
+    2300172: g pCube105 polySurface2125
+    2300174: g pCube105 polySurface2126
+    2300176: g pCube105 polySurface2147
+    2300178: g pCube105 polySurface2148
+    2300180: g pCube105 polySurface2149
+    2300182: g pCube105 polySurface2161
+    2300184: g pCube105 polySurface2163
+    2300186: g pCube105 polySurface2164
+    2300188: g pCube105 polySurface2168
+    2300190: g pCube105 polySurface2169
+    2300192: g pCube105 polySurface2170
+    2300194: g pCube105 polySurface2173 polySurface2174
+    2300196: g pCube108
+    2300198: g pCube136
+    2300200: g pCube137
+    2300202: g pCube29
+    2300204: g pCylinder11
+    2300206: g pCylinder12
+    2300208: g pCylinder13
+    2300210: g pCylinder16
+    2300212: g pCylinder17
+    2300214: g pCylinder18
+    2300216: g pCylinder19
+    2300218: g pCylinder22
+    2300220: g pCylinder23
+    2300222: g pCylinder32
+    2300224: g pCylinder33
+    2300226: g pCylinder34
+    2300228: g pCylinder35
+    2300230: g pCylinder36
+    2300232: g pCylinder48
+    2300234: g pCylinder49
+    2300236: g pCylinder50
+    2300238: g pCylinder51
+    2300240: g pCylinder52
+    2300242: g pCylinder53
+    2300244: g pCylinder54
+    2300246: g pCylinder55
+    2300248: g polySurface1677 pCube105
+    2300250: g polySurface1739
+    2300252: g polySurface1853
+    2300254: g polySurface1874
+    2300256: g polySurface1918
+    2300258: g polySurface1923
+    2300260: g polySurface1949
+    2300262: g polySurface2010
+    2300264: g polySurface2020
+    2300266: g polySurface2066
+    2300268: g polySurface2067
+    2300270: g polySurface2068
+    2300272: g polySurface2069
+    2300274: g polySurface2070
+    2300276: g polySurface2071
+    2300278: g polySurface2072
+    2300280: g polySurface2111
+    2300282: g polySurface2112
+    2300284: g polySurface2113
+    2300286: g polySurface2114
+    2300288: g polySurface2115
+    2300290: g polySurface2116
+    2300292: g polySurface2117
+    2300294: g polySurface2118
+    2300296: g polySurface2130
+    2300298: g polySurface2151
+    2300300: g polySurface2165
+    2300302: g polySurface2167
+    2300304: g polySurface2171
+    2300306: g polySurface2172
+    2300308: g pSphere4
+    2300310: g pTorus10
+    2300312: g pTorus11
+    2300314: g pTorus6
+    2300316: g pTorus7
+    2300318: g pTorus8
+    2300320: g pTorus9
+    2300322: g saco:pCube1
+    2300324: meshId100_name
+    2300326: meshId101_name
+    2300328: meshId103_name
+    2300330: meshId104_name
+    2300332: meshId105_name
+    2300334: meshId109_name
+    2300336: meshId111_name
+    2300338: meshId115_name
+    2300340: meshId116_name
+    2300342: meshId118_name
+    2300344: meshId120_name
+    2300346: meshId122_name
+    2300348: meshId123_name
+    2300350: meshId143_name
+    2300352: meshId150_name
+    2300354: meshId151_name
+    2300356: meshId154_name
+    2300358: meshId155_name
+    2300360: meshId156_name
+    2300362: meshId160_name
+    2300364: meshId162_name
+    2300366: meshId17_name
+    2300368: meshId191_name
+    2300370: meshId192_name
+    2300372: meshId19_name
+    2300374: meshId216_name
+    2300376: meshId218_name
+    2300378: meshId21_name
+    2300380: meshId220_name
+    2300382: meshId23_name
+    2300384: meshId25_name
+    2300386: meshId27_name
+    2300388: meshId29_name
+    2300390: meshId31_name
+    2300392: meshId39_name
+    2300394: meshId3_name
+    2300396: meshId41_name
+    2300398: meshId43_name
+    2300400: meshId45_name
+    2300402: meshId47_name
+    2300404: meshId49_name
+    2300406: meshId51_name
+    2300408: meshId53_name
+    2300410: meshId55_name
+    2300412: meshId56_name
+    2300414: meshId60_name
+    2300416: meshId61_name
+    2300418: meshId63_name
+    2300420: meshId76_name
+    2300422: meshId77_name
+    2300424: meshId79_name
+    2300426: meshId80_name
+    2300428: meshId82_name
+    2300430: meshId84_name
+    2300432: meshId86_name
+    2300434: meshId87_name
+    2300436: meshId88_name
+    2300438: meshId90_name
+    2300440: meshId92_name
+    2300442: meshId94_name
+    2300444: meshId99_name
+    3300000: g cajaM:pCube29
+    3300002: g cositas:pTorus9 cositas:polySurface2 polySurface2045
+    3300004: g cositas:pTorus9 cositas:polySurface2 polySurface2046 cositas:polySurface1
+    3300006: g pCube1
+    3300008: g pCube105 polySurface1683
+    3300010: g pCube105 polySurface1695
+    3300012: g pCube105 polySurface1700
+    3300014: g pCube105 polySurface1733
+    3300016: g pCube105 polySurface1736
+    3300018: g pCube105 polySurface1746
+    3300020: g pCube105 polySurface1747
+    3300022: g pCube105 polySurface1748
+    3300024: g pCube105 polySurface1750
+    3300026: g pCube105 polySurface1766
+    3300028: g pCube105 polySurface1767
+    3300030: g pCube105 polySurface1768
+    3300032: g pCube105 polySurface1772
+    3300034: g pCube105 polySurface1774
+    3300036: g pCube105 polySurface1775
+    3300038: g pCube105 polySurface1776
+    3300040: g pCube105 polySurface1777
+    3300042: g pCube105 polySurface1801
+    3300044: g pCube105 polySurface1802
+    3300046: g pCube105 polySurface1803
+    3300048: g pCube105 polySurface1804
+    3300050: g pCube105 polySurface1805
+    3300052: g pCube105 polySurface1806
+    3300054: g pCube105 polySurface1807
+    3300056: g pCube105 polySurface1808
+    3300058: g pCube105 polySurface1809
+    3300060: g pCube105 polySurface1825
+    3300062: g pCube105 polySurface1829
+    3300064: g pCube105 polySurface1848
+    3300066: g pCube105 polySurface1865
+    3300068: g pCube105 polySurface1869
+    3300070: g pCube105 polySurface1880
+    3300072: g pCube105 polySurface1881
+    3300074: g pCube105 polySurface1893
+    3300076: g pCube105 polySurface1905
+    3300078: g pCube105 polySurface1908
+    3300080: g pCube105 polySurface1917
+    3300082: g pCube105 polySurface1919
+    3300084: g pCube105 polySurface1934
+    3300086: g pCube105 polySurface2014
+    3300088: g pCube105 polySurface2026
+    3300090: g pCube105 polySurface2032
+    3300092: g pCube105 polySurface2033
+    3300094: g pCube105 polySurface2034
+    3300096: g pCube105 polySurface2035
+    3300098: g pCube105 polySurface2062
+    3300100: g pCube105 polySurface2063
+    3300102: g pCube105 polySurface2064
+    3300104: g pCube105 polySurface2065
+    3300106: g pCube105 polySurface2073
+    3300108: g pCube105 polySurface2074
+    3300110: g pCube105 polySurface2075
+    3300112: g pCube105 polySurface2076
+    3300114: g pCube105 polySurface2077
+    3300116: g pCube105 polySurface2078
+    3300118: g pCube105 polySurface2079
+    3300120: g pCube105 polySurface2080
+    3300122: g pCube105 polySurface2081
+    3300124: g pCube105 polySurface2082
+    3300126: g pCube105 polySurface2083
+    3300128: g pCube105 polySurface2084
+    3300130: g pCube105 polySurface2085
+    3300132: g pCube105 polySurface2086
+    3300134: g pCube105 polySurface2087
+    3300136: g pCube105 polySurface2088
+    3300138: g pCube105 polySurface2089
+    3300140: g pCube105 polySurface2090
+    3300142: g pCube105 polySurface2091
+    3300144: g pCube105 polySurface2092
+    3300146: g pCube105 polySurface2093
+    3300148: g pCube105 polySurface2094
+    3300150: g pCube105 polySurface2095
+    3300152: g pCube105 polySurface2096
+    3300154: g pCube105 polySurface2097
+    3300156: g pCube105 polySurface2098
+    3300158: g pCube105 polySurface2099
+    3300160: g pCube105 polySurface2119
+    3300162: g pCube105 polySurface2120
+    3300164: g pCube105 polySurface2121
+    3300166: g pCube105 polySurface2122
+    3300168: g pCube105 polySurface2123
+    3300170: g pCube105 polySurface2124
+    3300172: g pCube105 polySurface2125
+    3300174: g pCube105 polySurface2126
+    3300176: g pCube105 polySurface2147
+    3300178: g pCube105 polySurface2148
+    3300180: g pCube105 polySurface2149
+    3300182: g pCube105 polySurface2161
+    3300184: g pCube105 polySurface2163
+    3300186: g pCube105 polySurface2164
+    3300188: g pCube105 polySurface2168
+    3300190: g pCube105 polySurface2169
+    3300192: g pCube105 polySurface2170
+    3300194: g pCube105 polySurface2173 polySurface2174
+    3300196: g pCube108
+    3300198: g pCube136
+    3300200: g pCube137
+    3300202: g pCube29
+    3300204: g pCylinder11
+    3300206: g pCylinder12
+    3300208: g pCylinder13
+    3300210: g pCylinder16
+    3300212: g pCylinder17
+    3300214: g pCylinder18
+    3300216: g pCylinder19
+    3300218: g pCylinder22
+    3300220: g pCylinder23
+    3300222: g pCylinder32
+    3300224: g pCylinder33
+    3300226: g pCylinder34
+    3300228: g pCylinder35
+    3300230: g pCylinder36
+    3300232: g pCylinder48
+    3300234: g pCylinder49
+    3300236: g pCylinder50
+    3300238: g pCylinder51
+    3300240: g pCylinder52
+    3300242: g pCylinder53
+    3300244: g pCylinder54
+    3300246: g pCylinder55
+    3300248: g polySurface1677 pCube105
+    3300250: g polySurface1739
+    3300252: g polySurface1853
+    3300254: g polySurface1874
+    3300256: g polySurface1918
+    3300258: g polySurface1923
+    3300260: g polySurface1949
+    3300262: g polySurface2010
+    3300264: g polySurface2020
+    3300266: g polySurface2066
+    3300268: g polySurface2067
+    3300270: g polySurface2068
+    3300272: g polySurface2069
+    3300274: g polySurface2070
+    3300276: g polySurface2071
+    3300278: g polySurface2072
+    3300280: g polySurface2111
+    3300282: g polySurface2112
+    3300284: g polySurface2113
+    3300286: g polySurface2114
+    3300288: g polySurface2115
+    3300290: g polySurface2116
+    3300292: g polySurface2117
+    3300294: g polySurface2118
+    3300296: g polySurface2130
+    3300298: g polySurface2151
+    3300300: g polySurface2165
+    3300302: g polySurface2167
+    3300304: g polySurface2171
+    3300306: g polySurface2172
+    3300308: g pSphere4
+    3300310: g pTorus10
+    3300312: g pTorus11
+    3300314: g pTorus6
+    3300316: g pTorus7
+    3300318: g pTorus8
+    3300320: g pTorus9
+    3300322: g saco:pCube1
+    3300324: meshId100_name
+    3300326: meshId101_name
+    3300328: meshId103_name
+    3300330: meshId104_name
+    3300332: meshId105_name
+    3300334: meshId109_name
+    3300336: meshId111_name
+    3300338: meshId115_name
+    3300340: meshId116_name
+    3300342: meshId118_name
+    3300344: meshId120_name
+    3300346: meshId122_name
+    3300348: meshId123_name
+    3300350: meshId143_name
+    3300352: meshId150_name
+    3300354: meshId151_name
+    3300356: meshId154_name
+    3300358: meshId155_name
+    3300360: meshId156_name
+    3300362: meshId160_name
+    3300364: meshId162_name
+    3300366: meshId17_name
+    3300368: meshId191_name
+    3300370: meshId192_name
+    3300372: meshId19_name
+    3300374: meshId216_name
+    3300376: meshId218_name
+    3300378: meshId21_name
+    3300380: meshId220_name
+    3300382: meshId23_name
+    3300384: meshId25_name
+    3300386: meshId27_name
+    3300388: meshId29_name
+    3300390: meshId31_name
+    3300392: meshId39_name
+    3300394: meshId3_name
+    3300396: meshId41_name
+    3300398: meshId43_name
+    3300400: meshId45_name
+    3300402: meshId47_name
+    3300404: meshId49_name
+    3300406: meshId51_name
+    3300408: meshId53_name
+    3300410: meshId55_name
+    3300412: meshId56_name
+    3300414: meshId60_name
+    3300416: meshId61_name
+    3300418: meshId63_name
+    3300420: meshId76_name
+    3300422: meshId77_name
+    3300424: meshId79_name
+    3300426: meshId80_name
+    3300428: meshId82_name
+    3300430: meshId84_name
+    3300432: meshId86_name
+    3300434: meshId87_name
+    3300436: meshId88_name
+    3300438: meshId90_name
+    3300440: meshId92_name
+    3300442: meshId94_name
+    3300444: meshId99_name
+    4300000: g pTorus6
+    4300002: g pTorus7
+    4300004: g cositas:pTorus9 cositas:polySurface2 polySurface2045
+    4300006: meshId3_name
+    4300008: g pCylinder11
+    4300010: g pCylinder12
+    4300012: g pCylinder13
+    4300014: g pCylinder16
+    4300016: g pCylinder17
+    4300018: g pCylinder18
+    4300020: g pCylinder19
+    4300022: g pCylinder22
+    4300024: g pCylinder23
+    4300026: g saco:pCube1
+    4300028: g pCube1
+    4300030: g polySurface1874
+    4300032: g polySurface1923
+    4300034: meshId17_name
+    4300036: g polySurface2066
+    4300038: meshId19_name
+    4300040: g polySurface2067
+    4300042: meshId21_name
+    4300044: g polySurface2068
+    4300046: meshId23_name
+    4300048: g polySurface2069
+    4300050: meshId25_name
+    4300052: g polySurface2070
+    4300054: meshId27_name
+    4300056: g polySurface2071
+    4300058: meshId29_name
+    4300060: g polySurface2072
+    4300062: meshId31_name
+    4300064: g pTorus8
+    4300066: g pTorus9
+    4300068: g pCylinder32
+    4300070: g pCylinder33
+    4300072: g pCylinder34
+    4300074: g pCylinder35
+    4300076: g polySurface2111
+    4300078: meshId39_name
+    4300080: g polySurface2112
+    4300082: meshId41_name
+    4300084: g polySurface2113
+    4300086: meshId43_name
+    4300088: g polySurface2114
+    4300090: meshId45_name
+    4300092: g polySurface2115
+    4300094: meshId47_name
+    4300096: g polySurface2116
+    4300098: meshId49_name
+    4300100: g polySurface2117
+    4300102: meshId51_name
+    4300104: g polySurface2118
+    4300106: meshId53_name
+    4300108: g pCylinder36
+    4300110: meshId55_name
+    4300112: meshId56_name
+    4300114: g pTorus10
+    4300116: g pTorus11
+    4300118: g pCylinder48
+    4300120: meshId60_name
+    4300122: meshId61_name
+    4300124: g polySurface2151
+    4300126: meshId63_name
+    4300128: g pCube108
+    4300130: g pCylinder49
+    4300132: g pCylinder50
+    4300134: g pCylinder51
+    4300136: g cajaM:pCube29
+    4300138: g pCube29
+    4300140: g pCube136
+    4300142: g pCylinder52
+    4300144: g pCylinder53
+    4300146: g pCylinder54
+    4300148: g pCylinder55
+    4300150: g polySurface2130
+    4300152: meshId76_name
+    4300154: meshId77_name
+    4300156: g polySurface1949
+    4300158: meshId79_name
+    4300160: meshId80_name
+    4300162: g pSphere4
+    4300164: meshId82_name
+    4300166: g polySurface2165
+    4300168: meshId84_name
+    4300170: g polySurface2020
+    4300172: meshId86_name
+    4300174: meshId87_name
+    4300176: meshId88_name
+    4300178: g polySurface2167
+    4300180: meshId90_name
+    4300182: g polySurface1853
+    4300184: meshId92_name
+    4300186: g polySurface1918
+    4300188: meshId94_name
+    4300190: g pCube137
+    4300192: g polySurface2010
+    4300194: g polySurface2171
+    4300196: g polySurface2172
+    4300198: meshId99_name
+    4300200: meshId100_name
+    4300202: meshId101_name
+    4300204: g polySurface1739
+    4300206: meshId103_name
+    4300208: meshId104_name
+    4300210: meshId105_name
+    4300212: g polySurface1677 pCube105
+    4300214: g pCube105 polySurface1683
+    4300216: g pCube105 polySurface1695
+    4300218: meshId109_name
+    4300220: g pCube105 polySurface1700
+    4300222: meshId111_name
+    4300224: g pCube105 polySurface1733
+    4300226: g pCube105 polySurface1736
+    4300228: g pCube105 polySurface1746
+    4300230: meshId115_name
+    4300232: meshId116_name
+    4300234: g pCube105 polySurface1747
+    4300236: meshId118_name
+    4300238: g pCube105 polySurface1748
+    4300240: meshId120_name
+    4300242: g pCube105 polySurface1750
+    4300244: meshId122_name
+    4300246: meshId123_name
+    4300248: g pCube105 polySurface1766
+    4300250: g pCube105 polySurface1767
+    4300252: g pCube105 polySurface1768
+    4300254: g pCube105 polySurface1772
+    4300256: g pCube105 polySurface1774
+    4300258: g pCube105 polySurface1775
+    4300260: g pCube105 polySurface1776
+    4300262: g pCube105 polySurface1777
+    4300264: g pCube105 polySurface1801
+    4300266: g pCube105 polySurface1802
+    4300268: g pCube105 polySurface1803
+    4300270: g pCube105 polySurface1804
+    4300272: g pCube105 polySurface1805
+    4300274: g pCube105 polySurface1806
+    4300276: g pCube105 polySurface1807
+    4300278: g pCube105 polySurface1808
+    4300280: g pCube105 polySurface1809
+    4300282: g pCube105 polySurface1825
+    4300284: g pCube105 polySurface1829
+    4300286: meshId143_name
+    4300288: g pCube105 polySurface1848
+    4300290: g pCube105 polySurface1865
+    4300292: g pCube105 polySurface1869
+    4300294: g pCube105 polySurface1880
+    4300296: g pCube105 polySurface1881
+    4300298: g pCube105 polySurface1893
+    4300300: meshId150_name
+    4300302: meshId151_name
+    4300304: g pCube105 polySurface1905
+    4300306: g pCube105 polySurface1908
+    4300308: meshId154_name
+    4300310: meshId155_name
+    4300312: meshId156_name
+    4300314: g pCube105 polySurface1917
+    4300316: g pCube105 polySurface1919
+    4300318: g pCube105 polySurface1934
+    4300320: meshId160_name
+    4300322: g pCube105 polySurface2014
+    4300324: meshId162_name
+    4300326: g pCube105 polySurface2026
+    4300328: g pCube105 polySurface2032
+    4300330: g pCube105 polySurface2033
+    4300332: g pCube105 polySurface2034
+    4300334: g pCube105 polySurface2035
+    4300336: g pCube105 polySurface2062
+    4300338: g pCube105 polySurface2063
+    4300340: g pCube105 polySurface2064
+    4300342: g pCube105 polySurface2065
+    4300344: g pCube105 polySurface2073
+    4300346: g pCube105 polySurface2074
+    4300348: g pCube105 polySurface2075
+    4300350: g pCube105 polySurface2076
+    4300352: g pCube105 polySurface2077
+    4300354: g pCube105 polySurface2078
+    4300356: g pCube105 polySurface2079
+    4300358: g pCube105 polySurface2080
+    4300360: g pCube105 polySurface2081
+    4300362: g pCube105 polySurface2082
+    4300364: g pCube105 polySurface2083
+    4300366: g pCube105 polySurface2084
+    4300368: g pCube105 polySurface2085
+    4300370: g pCube105 polySurface2086
+    4300372: g pCube105 polySurface2087
+    4300374: g pCube105 polySurface2088
+    4300376: g pCube105 polySurface2089
+    4300378: g pCube105 polySurface2090
+    4300380: g pCube105 polySurface2091
+    4300382: meshId191_name
+    4300384: meshId192_name
+    4300386: g pCube105 polySurface2092
+    4300388: g pCube105 polySurface2093
+    4300390: g pCube105 polySurface2094
+    4300392: g pCube105 polySurface2095
+    4300394: g pCube105 polySurface2096
+    4300396: g pCube105 polySurface2097
+    4300398: g pCube105 polySurface2098
+    4300400: g pCube105 polySurface2099
+    4300402: g pCube105 polySurface2119
+    4300404: g pCube105 polySurface2120
+    4300406: g pCube105 polySurface2121
+    4300408: g pCube105 polySurface2122
+    4300410: g pCube105 polySurface2123
+    4300412: g pCube105 polySurface2124
+    4300414: g pCube105 polySurface2125
+    4300416: g pCube105 polySurface2126
+    4300418: g pCube105 polySurface2147
+    4300420: g pCube105 polySurface2148
+    4300422: g pCube105 polySurface2149
+    4300424: g pCube105 polySurface2161
+    4300426: g pCube105 polySurface2163
+    4300428: g pCube105 polySurface2164
+    4300430: g pCube105 polySurface2168
+    4300432: meshId216_name
+    4300434: g pCube105 polySurface2169
+    4300436: meshId218_name
+    4300438: g pCube105 polySurface2170
+    4300440: meshId220_name
+    4300442: g pCube105 polySurface2173 polySurface2174
+    4300444: g cositas:pTorus9 cositas:polySurface2 polySurface2046 cositas:polySurface1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barcoSG
+    second: {fileID: 2100000, guid: 275dc30614ea709498693e6bb12ead7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert20SG
+    second: {fileID: 2100000, guid: 14aa8e42614db5141a9f84221f7c2ea7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert22SG
+    second: {fileID: 2100000, guid: c1fc468ad4e28c242a481b08db8b8d99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert23SG
+    second: {fileID: 2100000, guid: 1722edd82f0d80a4390a41422dd1945f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert24SG
+    second: {fileID: 2100000, guid: ed5acbf83559b63419239890057061fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert25SG
+    second: {fileID: 2100000, guid: 53505070be11b504b83f1eed7a13caf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert27SG
+    second: {fileID: 2100000, guid: 5ec8b4cf39f0eba4b88c268909e56fef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert28SG
+    second: {fileID: 2100000, guid: bbc643ba8ee38c64f8d97d6633b09e4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert29SG
+    second: {fileID: 2100000, guid: e4aa7536d7005e04eae3f19313cb3e59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert30SG
+    second: {fileID: 2100000, guid: df64b95acf9177e408cea298d0523095, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert31SG
+    second: {fileID: 2100000, guid: 3c29a3662105afb4ab5a1a72f2521929, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert32SG
+    second: {fileID: 2100000, guid: 8269a83e36ae4764f9f1d0e94d3782a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert33SG
+    second: {fileID: 2100000, guid: f01041a2430f5c64f9caa7535596da05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert34SG
+    second: {fileID: 2100000, guid: 0935d6e26c6aebb43963b023b164464d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert35SG
+    second: {fileID: 2100000, guid: 66bf9d1459e01944cabc484f491f078d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert36SG
+    second: {fileID: 2100000, guid: 7041a0fec6e93f44b926fc73eff47366, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert37SG
+    second: {fileID: 2100000, guid: 7404d00c420f65f408bf80293c435ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mastil_1SG
+    second: {fileID: 2100000, guid: fc27c924e6149d241b1752d3df3d8b08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mastil_2SG
+    second: {fileID: 2100000, guid: fbf38f7c590770d49b179c5a0f67738a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mastil_3SG
+    second: {fileID: 2100000, guid: 94e0ef9f642267541a596a6f53ac291e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mastil_4SG
+    second: {fileID: 2100000, guid: 85648fb247d1bae4293dbfd2c60a321a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
