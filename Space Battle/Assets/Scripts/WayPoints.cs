@@ -20,7 +20,6 @@ public class WayPoints : MonoBehaviour {
             Gizmos.DrawLine(last.transform.position, next.transform.position);
             Gizmos.DrawSphere(last.position, 1);
             Gizmos.DrawSphere(next.position, 1);
-
         }
     }
 
