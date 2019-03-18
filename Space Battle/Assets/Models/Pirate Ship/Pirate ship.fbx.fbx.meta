@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: 57cb60f25db4455468d4121fcc7d9f0a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Aft_Deco
+    100002: Anchors
+    100004: Bow_Sprit
+    100006: Cannons
+    100008: Cannons 1
+    100010: Captain_Deck
+    100012: Fore_Mast
+    100014: Foremast_Crossbeam
+    100016: Main_Deck
+    100018: Main_Mast
+    100020: Mainmast_Crossbeam
+    100022: Mast_Lantern
+    100024: Mast_Lantern 1
+    100026: Mast_Rigging
+    100028: Mast_Rigging 1
+    100030: Mermaid_Figurehead
+    100032: Part-1
+    100034: Part-2
+    100036: Part-3
+    100038: Part-4
+    100040: //RootNode
+    100042: Poop_Deck
+    100044: Ram
+    100046: Rear_Lanterns
+    100048: Rear_Window
+    100050: Rope_Rigging
+    100052: Rudder+Keel
+    100054: Sails
+    100056: Ship
+    100058: Ship_Decal1
+    100060: Ship_Decal2
+    100062: Ship_Hull
+    100064: Upper_Deck
+    100066: Water
+    400000: Aft_Deco
+    400002: Anchors
+    400004: Bow_Sprit
+    400006: Cannons
+    400008: Cannons 1
+    400010: Captain_Deck
+    400012: Fore_Mast
+    400014: Foremast_Crossbeam
+    400016: Main_Deck
+    400018: Main_Mast
+    400020: Mainmast_Crossbeam
+    400022: Mast_Lantern
+    400024: Mast_Lantern 1
+    400026: Mast_Rigging
+    400028: Mast_Rigging 1
+    400030: Mermaid_Figurehead
+    400032: Part-1
+    400034: Part-2
+    400036: Part-3
+    400038: Part-4
+    400040: //RootNode
+    400042: Poop_Deck
+    400044: Ram
+    400046: Rear_Lanterns
+    400048: Rear_Window
+    400050: Rope_Rigging
+    400052: Rudder+Keel
+    400054: Sails
+    400056: Ship
+    400058: Ship_Decal1
+    400060: Ship_Decal2
+    400062: Ship_Hull
+    400064: Upper_Deck
+    400066: Water
+    2100000: Water
+    2100002: Ship_Hull
+    2100004: Foremast
+    2100006: Bowsprit
+    2100008: Mainmast
+    2100010: Captain_Deck
+    2100012: Rudder+Keel
+    2100014: Mainmast_Crossbeam
+    2100016: Foremast_Crossbeam
+    2100018: Part3
+    2100020: Sails
+    2100022: Figurehead
+    2100024: Part1
+    2100026: Cannons
+    2100028: Part2
+    2100030: Part4
+    2100032: Ram
+    2100034: Ship_Decal1
+    2300000: Aft_Deco
+    2300002: Anchors
+    2300004: Bow_Sprit
+    2300006: Cannons
+    2300008: Cannons 1
+    2300010: Captain_Deck
+    2300012: Fore_Mast
+    2300014: Foremast_Crossbeam
+    2300016: Main_Deck
+    2300018: Main_Mast
+    2300020: Mainmast_Crossbeam
+    2300022: Mast_Lantern
+    2300024: Mast_Lantern 1
+    2300026: Mast_Rigging
+    2300028: Mast_Rigging 1
+    2300030: Mermaid_Figurehead
+    2300032: Poop_Deck
+    2300034: Ram
+    2300036: Rear_Lanterns
+    2300038: Rear_Window
+    2300040: Rope_Rigging
+    2300042: Rudder+Keel
+    2300044: Sails
+    2300046: Ship_Decal1
+    2300048: Ship_Decal2
+    2300050: Ship_Hull
+    2300052: Upper_Deck
+    2300054: Water
+    3300000: Aft_Deco
+    3300002: Anchors
+    3300004: Bow_Sprit
+    3300006: Cannons
+    3300008: Cannons 1
+    3300010: Captain_Deck
+    3300012: Fore_Mast
+    3300014: Foremast_Crossbeam
+    3300016: Main_Deck
+    3300018: Main_Mast
+    3300020: Mainmast_Crossbeam
+    3300022: Mast_Lantern
+    3300024: Mast_Lantern 1
+    3300026: Mast_Rigging
+    3300028: Mast_Rigging 1
+    3300030: Mermaid_Figurehead
+    3300032: Poop_Deck
+    3300034: Ram
+    3300036: Rear_Lanterns
+    3300038: Rear_Window
+    3300040: Rope_Rigging
+    3300042: Rudder+Keel
+    3300044: Sails
+    3300046: Ship_Decal1
+    3300048: Ship_Decal2
+    3300050: Ship_Hull
+    3300052: Upper_Deck
+    3300054: Water
+    4300000: Water
+    4300002: Ship_Hull
+    4300004: Fore_Mast
+    4300006: Bow_Sprit
+    4300008: Main_Mast
+    4300010: Captain_Deck
+    4300012: Rudder+Keel
+    4300014: Mainmast_Crossbeam
+    4300016: Foremast_Crossbeam
+    4300018: Main_Deck
+    4300020: Upper_Deck
+    4300022: Poop_Deck
+    4300024: Sails
+    4300026: Mermaid_Figurehead
+    4300028: Rear_Window
+    4300030: Aft_Deco
+    4300032: Anchors
+    4300034: Cannons
+    4300036: Cannons
+    4300038: Mast_Rigging
+    4300040: Mast_Rigging
+    4300042: Rope_Rigging
+    4300044: Mast_Lantern
+    4300046: Mast_Lantern
+    4300048: Rear_Lanterns
+    4300050: Ship_Decal2
+    4300052: Ram
+    4300054: Ship_Decal1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
