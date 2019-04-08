@@ -173,14 +173,105 @@ ModelImporter:
     4300050: Ship_Decal2
     4300052: Ram
     4300054: Ship_Decal1
-  externalObjects: {}
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bowsprit
+    second: {fileID: 2100000, guid: d1fe30be01758a24b832b88e4b7fde57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cannons
+    second: {fileID: 2100000, guid: 50e4741f2bc673f4fab77a9ce473c6ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Captain_Deck
+    second: {fileID: 2100000, guid: ca36de2a95f1ba44fbdb5ef571dacdf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Figurehead
+    second: {fileID: 2100000, guid: 6123043ea10ed0747819f70f0a4ac0ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Foremast
+    second: {fileID: 2100000, guid: 888a7a114641d3e4da43d2518c9b4aac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Foremast_Crossbeam
+    second: {fileID: 2100000, guid: affb76536f6890c4dacb9a943fa3307b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mainmast
+    second: {fileID: 2100000, guid: 0ed0770037d505b4fa3647b2ca9e4975, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mainmast_Crossbeam
+    second: {fileID: 2100000, guid: 4057cd7517d466c45bd6af9fdf7ab160, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part1
+    second: {fileID: 2100000, guid: f289c559561140b46b35ff441d77b0e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part2
+    second: {fileID: 2100000, guid: 998c3febb56159c4aafc1f87c8f2d0a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part3
+    second: {fileID: 2100000, guid: 88d10b714bdf7f143bef04c12cd937c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part4
+    second: {fileID: 2100000, guid: f1db90b5478ebbe419b7c438c2c5e916, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ram
+    second: {fileID: 2100000, guid: 8d394a173d4d24e488f8647d2328ec85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rudder+Keel
+    second: {fileID: 2100000, guid: a66fce2ec153fd04da74796a7b6221ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sails
+    second: {fileID: 2100000, guid: 65e31710be4b3d149a22935ccd66da80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ship_Decal1
+    second: {fileID: 2100000, guid: e5f623e11b62f714cb85b550c5bfecad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ship_Hull
+    second: {fileID: 2100000, guid: cdcfbbada62cf5a41bfaf638f8afe82d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water
+    second: {fileID: 2100000, guid: 1176de15473f76c4c900e0f4c4ef27e9, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 0
   animations:
-    legacyGenerateAnimations: 4
+    legacyGenerateAnimations: 0
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
@@ -207,6 +298,7 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -231,7 +323,10 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
@@ -245,12 +340,11 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 1
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
