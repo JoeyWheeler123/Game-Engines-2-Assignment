@@ -19,6 +19,6 @@ public class BobBehaviour : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       transform.localPosition = pos + transform.up * Mathf.Sin(Time.time * frequency) * magnitude;
+       
     }
 }
