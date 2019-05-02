@@ -7,7 +7,7 @@ public class ShootScript : MonoBehaviour
     bool firing;
 
     public GameObject cannonBall;
-    public GameObject ship;
+    //public GameObject ship;
     public GameObject firePos1;
     Rigidbody rb;
 
@@ -44,8 +44,9 @@ public class ShootScript : MonoBehaviour
         }
     }
 
-    private void OnCollisionEnter(Collider other)
+    private void OnTriggerEnter(Collider other)
     {
+        Debug.Log("Start Shooting Now");
         firing = true;
     }
 
