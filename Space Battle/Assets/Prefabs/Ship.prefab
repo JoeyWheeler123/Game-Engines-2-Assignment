@@ -17812,12 +17812,12 @@ GameObject:
   m_Component:
   - component: {fileID: 1115917767409544213}
   m_Layer: 0
-  m_Name: model
+  m_Name: Ship
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1115917767409544213
 Transform:
   m_ObjectHideFlags: 0
