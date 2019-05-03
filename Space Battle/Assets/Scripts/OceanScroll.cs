@@ -34,7 +34,7 @@ public class OceanScroll : MonoBehaviour
             ScrollForward();
         }*/
 
-        if (shipT.position.z > (layers[backIndex].transform.position.z + tileSize))
+        if (shipT.position.z > (layers[backIndex].transform.position.z + tileSize * 2))
         {
             ScrollForward();
         }
