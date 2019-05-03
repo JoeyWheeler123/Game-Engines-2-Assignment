@@ -11,7 +11,7 @@ public class CameraObserve : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        ship = GameObject.FindGameObjectWithTag("Player").transform;
+        //ship = GameObject.FindGameObjectWithTag("Player").transform;
     }
 
     void Update()
