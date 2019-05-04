@@ -4,12 +4,20 @@ using UnityEngine;
 
 public class CameraArc : MonoBehaviour
 {
-    float speed;
+    public float speed = 10f;
+
+    public float height = 5f;
+
+    public float distance = 10f;
+
+    public Vector3 end;
+
+    Vector3 pos;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        pos = gameObject.transform.position;
     }
 
     // Update is called once per frame
@@ -17,6 +25,7 @@ public class CameraArc : MonoBehaviour
     {
         speed += Time.deltaTime;
 
-        transform.position = ParabolaMovement.Parabola(Vector3.zero, Vector3.forward * 10f, 5f, speed / 5f);
+        //transform.position = ParabolaMovement.Parabola(pos, Vector3.forward * distance, height, speed / 5f);
+        transform.position = ParabolaMovement.Parabola(pos, end, height, speed / 5f);
     }
 }
