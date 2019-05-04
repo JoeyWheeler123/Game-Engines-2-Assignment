@@ -19,23 +19,6 @@ public class CameraObserve : MonoBehaviour
         Vector3 toShip = ship.transform.position - transform.position;
         transform.rotation = Quaternion.RotateTowards(transform.rotation, Quaternion.LookRotation(toShip), speed * Time.deltaTime);
     }
-
-    /*private void OnTriggerStay(Collider other)
-    {
-
-        if (other.tag == "Player")
-        {
-            Vector3 toPlayer = other.transform.position - transform.position;
-            transform.rotation = Quaternion.RotateTowards(transform.rotation,
-                Quaternion.LookRotation(toPlayer)
-                , rotSpeed * Time.deltaTime
-                );
-            /*
-            transform.rotation = Quaternion.Slerp(transform.rotation,
-                Quaternion.LookRotation(toPlayer)
-                , Time.deltaTime
-                );
-                */
         
 
 }

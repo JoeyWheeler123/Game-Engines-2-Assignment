@@ -1717,10 +1717,8 @@ GameObject:
   - component: {fileID: 3243325978908591367}
   - component: {fileID: 3243325978898579663}
   - component: {fileID: 3243325978739150114}
-  - component: {fileID: 3243325978739150115}
-  - component: {fileID: 3243325978739150112}
   m_Layer: 0
-  m_Name: Pirate ship.fbx
+  m_Name: PirateShip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1773,42 +1771,6 @@ MonoBehaviour:
   frequency: 0.15
   theta: 3359.6008
   axis: {x: 0, y: 0, z: 0}
---- !u!114 &3243325978739150115
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3243325978908498279}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a7f82c9a51c3135439f13b6aaeaca938, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  force: {x: 0, y: 0, z: 0}
-  acceleration: {x: 0, y: 0, z: 0}
-  velocity: {x: 0, y: 0, z: 0}
-  mass: 1
-  damping: 3.7
-  banking: 0.52
-  maxSpeed: 100
-  maxForce: 133.93
---- !u!114 &3243325978739150112
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3243325978908498279}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 05a470cab4a7c5c478819833440de97f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  weight: 1
-  force: {x: 0, y: 0, z: 0}
-  boid: {fileID: 0}
-  path: {fileID: 0}
 --- !u!1 &3243325978908498281
 GameObject:
   m_ObjectHideFlags: 0

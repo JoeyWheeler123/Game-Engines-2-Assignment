@@ -28,7 +28,7 @@ public class FadeManager : MonoBehaviour
 
     private void Update()
     {
-        if(Input.GetKey(KeyCode.A))
+        /*if(Input.GetKey(KeyCode.A))
         {
             Fade(true, 1.25f);
         }
@@ -36,7 +36,7 @@ public class FadeManager : MonoBehaviour
         if (Input.GetKey(KeyCode.S))
         {
             Fade(false, 1.25f);
-        }
+        }*/
 
         if (!isFading)
         {
