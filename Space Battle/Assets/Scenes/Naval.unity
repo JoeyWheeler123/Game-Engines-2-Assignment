@@ -18728,8 +18728,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cameras:
-  - {fileID: 616668369}
-  - {fileID: 0}
+  - {fileID: 1342538483}
+  - {fileID: 908319234}
 --- !u!4 &609199493
 Transform:
   m_ObjectHideFlags: 0
@@ -39941,13 +39941,14 @@ GameObject:
   - component: {fileID: 1342538483}
   - component: {fileID: 1342538482}
   - component: {fileID: 1342538484}
+  - component: {fileID: 1342538485}
   m_Layer: 0
   m_Name: Camera Deck
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1342538481
 Transform:
   m_ObjectHideFlags: 0
@@ -40026,6 +40027,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fadeManager: {fileID: 609199491}
   t: 3
+--- !u!114 &1342538485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1342538480}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef7d326dbe6514f569da9d54edce24ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timer: 10
+  camera: 1
 --- !u!1 &1344776656
 GameObject:
   m_ObjectHideFlags: 0

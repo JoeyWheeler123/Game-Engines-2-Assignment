@@ -21,7 +21,7 @@ public class CameraManager : MonoBehaviour
         }
     }
 
-    void SelectCamera(int index)
+    public void SelectCamera(int index)
     {
         ResetCameras();
         cameras[index].gameObject.SetActive(true);
