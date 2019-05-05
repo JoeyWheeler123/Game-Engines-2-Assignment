@@ -18747,7 +18747,7 @@ MonoBehaviour:
   - {fileID: 1120552980}
   - {fileID: 398019448}
   - {fileID: 2145794693}
-  - {fileID: 2145794693}
+  - {fileID: 2075874880}
 --- !u!4 &609199493
 Transform:
   m_ObjectHideFlags: 0
@@ -26048,7 +26048,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &834628042
 Transform:
   m_ObjectHideFlags: 0
@@ -65931,7 +65931,7 @@ GameObject:
   - component: {fileID: 1907796441}
   m_Layer: 0
   m_Name: Camera Front High
-  m_TagString: Untagged
+  m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -68533,11 +68533,11 @@ GameObject:
   - component: {fileID: 2075874881}
   m_Layer: 0
   m_Name: Camera Front
-  m_TagString: Untagged
+  m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2075874878
 Transform:
   m_ObjectHideFlags: 0
@@ -68611,11 +68611,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 2075874877}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 869714b16465e4012b40e2d1d0c7d007, type: 3}
+  m_Script: {fileID: 11500000, guid: 0a3c9d0edf4d843698078307fd030caf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  otherCamera: {fileID: 1907796439}
-  time: 1
+  startPos: {fileID: 2075874878}
+  endPos: {fileID: 1907796440}
+  journeyTime: 10
+  speed: 0.2
+  repeatable: 0
+  dir: {x: 0, y: 1, z: 0}
 --- !u!114 &2075874882
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -68623,7 +68627,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2075874877}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d4e53ad876cc142d6a047c4cf184cd27, type: 3}
   m_Name: 
@@ -69847,7 +69851,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &2145794691
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -69939,7 +69943,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timer: 8
-  camera: 5
+  camera: 4
 --- !u!1001 &3243325978490890886
 PrefabInstance:
   m_ObjectHideFlags: 0
