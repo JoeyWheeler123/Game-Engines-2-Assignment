@@ -9,7 +9,7 @@ public class ShootScript : MonoBehaviour
     public GameObject cannonBall;
     //public GameObject ship;
     public GameObject firePos1;
-    Rigidbody rb;
+    public Rigidbody rb;
 
     public float time = 2f;
 
@@ -27,7 +27,11 @@ public class ShootScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if(Input.GetKeyDown(KeyCode.A))
+        {
+            firing = true;
+            FireCannon();
+        }
     }
 
     IEnumerator FireCannon()
@@ -36,8 +40,9 @@ public class ShootScript : MonoBehaviour
         {
             if(firing)
             {
-                Instantiate(cannonBall, firePos1.transform.position, Quaternion.identity);
-                rb.AddForce(transform.forward * firePower);
+                GameObject clone;
+                clone = Instantiate(cannonBall, firePos1.transform.position, Quaternion.identity);
+                clone.GetComponent<Rigidbody>().AddForce(transform.forward * firePower, ForceMode.Impulse);
                 Debug.Log("Shoot");
             }
             yield return new WaitForSeconds(time);
