@@ -22,7 +22,7 @@ public class DestroyShip : MonoBehaviour
     {
         if(coll.gameObject.tag == "Obstacle")
         {
-            anim.Play();
+            //anim.Play();
             Destroy(gameObject);
         }
     }
