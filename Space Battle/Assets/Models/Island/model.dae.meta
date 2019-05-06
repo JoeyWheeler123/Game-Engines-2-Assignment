@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 11849de164c974eff8704a082f97d1ef
+guid: 2cc5f6e8462984a09a017e8fede86c27
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -17,7 +17,17 @@ ModelImporter:
     3300002: island 1
     4300000: island
     4300002: island
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: island
+    second: {fileID: 2100000, guid: c02cfc3606c9c43728f5785ddc1d56e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ocean
+    second: {fileID: 2100000, guid: e9166db0b84254c5180f35ed9348cee2, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
