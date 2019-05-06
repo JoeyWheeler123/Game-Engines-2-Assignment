@@ -5,6 +5,11 @@ using UnityEngine;
 public class CannonShoot : MonoBehaviour
 {
     public GameObject cannonBall;
+
+    public Animation anim;
+
+    public AudioClip shot;
+    public AudioSource cannons;
     //public GameObject firePos1;
 
     public int firePower = 1000;
@@ -14,6 +19,7 @@ public class CannonShoot : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        cannons.clip = shot;
         StartCoroutine(FireCannon());
     }
 
@@ -28,7 +34,8 @@ public class CannonShoot : MonoBehaviour
         GameObject clone;
         clone = Instantiate(cannonBall, transform.position, Quaternion.identity);
         clone.GetComponent<Rigidbody>().AddForce(transform.up * firePower, ForceMode.Impulse);
-        Debug.Log("Shoot");
+        cannons.Play();
+        anim.Play();
     }
 
     IEnumerator FireCannon()

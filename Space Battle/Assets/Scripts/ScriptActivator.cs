@@ -13,6 +13,8 @@ public class ScriptActivator : MonoBehaviour
 
     public GameObject fleet;
 
+    public Animation anim;
+
     // Start is called before the first frame update
     void Start()
     {

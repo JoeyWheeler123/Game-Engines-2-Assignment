@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class DestroyShip : MonoBehaviour
 {
+    public Animation anim;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -16,10 +18,11 @@ public class DestroyShip : MonoBehaviour
         
     }
 
-    private void OnCollisionEnter(Collision coll)
+    private void OnTriggerEnter(Collider coll)
     {
         if(coll.gameObject.tag == "Obstacle")
         {
+            anim.Play();
             Destroy(gameObject);
         }
     }
