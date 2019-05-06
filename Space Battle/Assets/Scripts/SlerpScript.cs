@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class SlerpScript : MonoBehaviour
 {
+
     public Transform startPos;
     public Transform endPos;
     public float journeyTime = 1.0f;
@@ -20,7 +21,7 @@ public class SlerpScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame

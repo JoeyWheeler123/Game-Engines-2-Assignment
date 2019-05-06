@@ -11,6 +11,8 @@ public class ScriptActivator : MonoBehaviour
         public GameObject c5;
         public GameObject c6;
 
+    public GameObject fleet;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -20,6 +22,8 @@ public class ScriptActivator : MonoBehaviour
         c4.GetComponent<CannonShoot>().enabled = true;
         c5.GetComponent<CannonShoot>().enabled = true;
         c6.GetComponent<CannonShoot>().enabled = true;
+
+        fleet.gameObject.SetActive(true);
     }
 
     // Update is called once per frame
