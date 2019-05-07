@@ -1,5 +1,23 @@
-# Game-Engines-2-Assignment
+# Sci-Fi UI Project (Naval Ship UI Project)
+
+Name: Connor Ryan
+
+Student Number: c16755215
+
+## Description
+
+My assignment takes place on the high seas as I attempt to simulate an epic sea chase. The scene shows a pirate ship, weaving its way in and around islands and castles in its attempt to escape the pursuing enemy naval fleet.
+
+## How it Works
+
+The pirate ship follows a path throughout the scene whilst the pursuing fleet follows the pirate ship whilst trying to avoid crashing and sinking. There are many cameras set up throughout the scene which are changed and accessed via a camera manager script I created.# Game-Engines-2-Assignment
 Repo for my naval battle using game AI behaviours and techniques.
+
+## What I am most proud of
+
+I'm really satisfied with the array of camera angles and positions I used. I think it adds to the aesthetic of my scene and helps create the sense of adventure I was going for. I am also proud of the realness of my pirate ship's behaviour. I feel as if I got a realistic floating behaviour functional as well as realistic ship movement as a whole. Despite there being no water active in the scene, this was purely due to performance related issues. However, I wrote some scripts such as the OceanScroll script to further try and optimise the water. Despite the water still being too unstable to use, these scripts proved to be quite efficient and will definitely be reusable in further projects.
+
+YouTube video link - https://youtu.be/8ECAeceya6E
 
 Storyboard for the naval pursuit.
 
