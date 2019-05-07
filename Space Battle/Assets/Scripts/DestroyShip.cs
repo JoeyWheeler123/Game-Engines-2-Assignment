@@ -6,6 +6,8 @@ public class DestroyShip : MonoBehaviour
 {
     public Animation anim;
 
+    public AnimationClip clip;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -22,8 +24,8 @@ public class DestroyShip : MonoBehaviour
     {
         if(coll.gameObject.tag == "Obstacle")
         {
-            //anim.Play();
-            Destroy(gameObject);
+            anim.Play();
+            Destroy(gameObject, clip.length);
         }
     }
 }

@@ -36,6 +36,7 @@ public class CannonShoot : MonoBehaviour
         clone.GetComponent<Rigidbody>().AddForce(transform.up * firePower, ForceMode.Impulse);
         cannons.Play();
         anim.Play();
+        GetComponent<CannonShoot>().enabled = false;
     }
 
     IEnumerator FireCannon()

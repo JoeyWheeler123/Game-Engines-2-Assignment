@@ -18031,7 +18031,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 846928ab754c74621aaee8d9ea40d35e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anim: {fileID: 0}
+  anim: {fileID: 5865984696568935922}
+  clip: {fileID: 7400000, guid: 17a79803a314e43debed6fa0b08f2c28, type: 2}
 --- !u!65 &4549408630579253536
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18087,10 +18088,11 @@ Animation:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1115917767409252597}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 3
   m_Animation: {fileID: 7400000, guid: 17a79803a314e43debed6fa0b08f2c28, type: 2}
-  m_Animations: []
+  m_Animations:
+  - {fileID: 7400000, guid: 17a79803a314e43debed6fa0b08f2c28, type: 2}
   m_WrapMode: 0
   m_PlayAutomatically: 0
   m_AnimatePhysics: 0
