@@ -64507,7 +64507,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fadeManager: {fileID: 609199491}
-  t: 6
+  t: 2
 --- !u!1001 &1858248390
 PrefabInstance:
   m_ObjectHideFlags: 0
