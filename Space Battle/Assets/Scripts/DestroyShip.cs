@@ -4,14 +4,17 @@ using UnityEngine;
 
 public class DestroyShip : MonoBehaviour
 {
-    public Animation anim;
+    //public Animation anim;
 
-    public AnimationClip clip;
+    // public AnimationClip clip;
+
+    //GameObject ship;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        //ship = GameObject.FindWithTag("Die");
+        //estroy(ship);
     }
 
     // Update is called once per frame
@@ -20,12 +23,12 @@ public class DestroyShip : MonoBehaviour
         
     }
 
-    private void OnTriggerEnter(Collider coll)
+    private void OnTriggerEnter(Collider other)
     {
-        if(coll.gameObject.tag == "Obstacle")
+        if(other.tag == "Obstacle")
         {
-            anim.Play();
-            Destroy(gameObject, clip.length);
+            Destroy(gameObject);
         }
     }
+
 }
